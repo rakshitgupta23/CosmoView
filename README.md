@@ -1,6 +1,6 @@
 # <img src="./src/assets/stars.png" height=20> CosmoView - Explore the Cosmos
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://rakshitgupta23.github.io/CosmoView/)
 
 ## Overview
 
@@ -17,7 +17,7 @@ CosmoView is an engaging web application that showcases stunning images from NAS
 
 - Visit the CosmoView Web App.
 - The application will automatically fetch and display the latest APOD image.
-- Use the sidebar to read detailed information about the image.
+- Use the sidebar by clicking on the i button to read detailed information about the image.
 - Cached data will be used to improve performance, so you can enjoy a faster and smoother experience.
 
 ## Technologies Used
@@ -30,3 +30,7 @@ CosmoView is an engaging web application that showcases stunning images from NAS
 
 Feel free to fork this repository and submit pull requests if you'd like to contribute to improving TodoBuddy. Feedback and suggestions are always welcome!
 
+![image](https://github.com/user-attachments/assets/7263a377-5622-438d-b568-57eb1cf523f5)
+
+
+![image](https://github.com/user-attachments/assets/25ff1557-cac5-4f99-b63e-26d66b8d0805)
